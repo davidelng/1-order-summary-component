@@ -23,15 +23,15 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshots
+### Screenshot
 
 ![](screenshot/desktop.png)
 ![](screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/davidelng/1-order-summary-component/find/main)
+- [Live Site URL](https://davidelng.github.io/1-order-summary-component/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-A more modern approach to cards!
+A more modern approach to css cards
 
 ### Useful resources
 
