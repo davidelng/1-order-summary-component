@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/davidelng/1-order-summary-component/find/main)
+- [Solution URL](https://github.com/davidelng/1-order-summary-component/)
 - [Live Site URL](https://davidelng.github.io/1-order-summary-component/)
 
 ## My process
